@@ -1,14 +1,14 @@
 # Android_ToDoAppUITest
 
-This code run for to-do app UI test. Following steps describes how to run it with emulator.
-Before ready to test, instal Android SDK and prepare your emulator device in Android AVD manager to build the app and test. For my example, use Pixel_3a_API_30_x86.
+This code run for to-do app UI test. Following steps describe how to run it with emulator.
+Before ready to test, install Android SDK and prepare your emulator device in Android AVD manager to build the app and test. For my example, use Pixel_3a_API_30_x86.
 
 1. Change directiry to any place you want to put the test file. And git clone to get ToDoListUITests.swift here.
 
 >git clone git@github.com:beethoreven/iOS_ToDoAppUITest.git
 
 
-2. Change directiry to any place you want to put the to do app project. Since it provide many branches to pull, I use todo-mvp branch.
+2. Change directiry to any place you want to put the to-do app project. Since it provide many branches to pull, I use todo-mvp branch.
 
 >git clone git@github.com:denyszelenchuk/architecture-samples.git
 >git checkout todo-mvp
